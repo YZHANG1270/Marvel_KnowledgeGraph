@@ -1,16 +1,17 @@
 # Update
 个人demo项目，不断完善中...
 
+两大块内容：**Marvel API**  和  **Knowledge Graph 知识图谱** 
+
 
 
 **2019/04/08** 
 
-- [x] Marvel 官网注册开发者账号 （my developer account: yzhang1270）
+- [x] Marvel 官网注册开发者账号 [[link](https://developer.marvel.com/)] （my developer account: yzhang1270）
 - [x] Get a Key 获取公钥、私钥
 - [x] python package: pip install marvel
-- [x] 生成 Marvel API 调用代码模块：**marvel_api.ipynb** 
-- [x] 参数传递```captain america``` ，JSON返回数据：**json_captain_america.txt** 
-- [ ] 多维度数据的整理分析
+- [x] 调试marvel，读接口参数文档 [[link](https://developer.marvel.com/docs)]，生成 Marvel API 调用说明：**marvel_api.ipynb** 
+- [x] 多维度数据的整理分析：参数传递```captain america``` ，JSON返回数据：**json_captain_america.txt** 
 
 
 
