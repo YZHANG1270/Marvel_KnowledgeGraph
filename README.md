@@ -3,6 +3,8 @@
 
 两大块内容：**Marvel API**  和  **Knowledge Graph 知识图谱** 
 
+![img from internet](https://github.com/YZHANG1270/Marvel_KnowledgeGraph/img/hero.png)
+
 
 
 **2019/04/08** 
