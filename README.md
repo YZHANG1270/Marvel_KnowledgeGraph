@@ -1,20 +1,29 @@
-# Marvel_KnowledgeGraph
+# Update
 个人demo项目，不断完善中...
 
 
 
-Tasks
+**2019/04/08** 
 
-- [ ] 知识图谱 - 理论知识总结	到 http://codewithzhangyi.com
-- [ ] 图谱工具 - Neo4j 使用总结	到 http://codewithzhangyi.com
-- [ ] Cypher 语法总结	到 http://codewithzhangyi.com
+- [ ] Marvel 官网注册开发者账号 （my developer account: yzhang1270）
+- [ ] Get a Key 获取公钥、密钥
+- [ ] pip install marvel
+- [ ] 跑通 Marvel Package
+
+
+
+##### Tasks
+
+- [ ] 知识图谱 - 理论知识总结	输出到个人网站
+- [ ] 图谱工具 - Neo4j 使用总结	输出到个人网站
+- [ ] Cypher 语法总结	输出到个人网站
 - [ ] 漫威API 熟悉
 - [ ] 数据收集
 - [ ] 建立图谱代码
 
 
 
-参考
+##### 参考
 
 - [ ] 超棒的marvel知识图谱展示 [[link](https://graphics.straitstimes.com/STI/STIMEDIA/Interactives/2018/04/marvel-cinematic-universe-whos-who-interactive/index.html)]
 - [ ] 漫威API官网 [[link](https://developer.marvel.com/)]
@@ -24,7 +33,7 @@ Tasks
 
 
 
-制作教程
+##### 制作教程
 
 - [ ] [part1](https://medium.com/neo4j/create-a-data-marvel-develop-a-full-stack-application-with-spring-and-neo4j-part-1-350f0f7e6609) 
 - [ ] [part2](https://medium.com/neo4j/create-a-data-marvel-develop-a-full-stack-application-with-spring-and-neo4j-part-2-12186b929cb2?sk=dc964e4bf6496141730dde704bcabb47) 
@@ -36,4 +45,3 @@ Tasks
 - [ ] [part8](https://medium.com/neo4j/create-a-data-marvel-part-8-controlling-and-servicing-our-comic-endpoints-4dd08b81e0e) 
 - [ ] [part9](https://medium.com/neo4j/create-a-data-marvel-part-9-building-the-webpage-for-comics-1ceb26f8a5be) 
 - [ ] [part10](https://medium.com/neo4j/creating-a-data-marvel-part-10-lessons-and-resources-8ffb5bf0ad1) 
-
