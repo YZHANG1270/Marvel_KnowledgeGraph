@@ -1,11 +1,14 @@
-# Update
-个人demo项目，不断完善中...
-
-两大块内容：**Marvel API**  和  **Knowledge Graph 知识图谱** 
-
 ![](https://github.com/YZHANG1270/Marvel_KnowledgeGraph/blob/master/img/hero.png?raw=true)
 
 [image from awesome demo](https://graphics.straitstimes.com/STI/STIMEDIA/Interactives/2018/04/marvel-cinematic-universe-whos-who-interactive/index.html)
+
+
+
+# Update
+
+个人demo项目，不断完善中...
+
+两大块内容：**Marvel API**  和  **Knowledge Graph 知识图谱** 
 
 
 
