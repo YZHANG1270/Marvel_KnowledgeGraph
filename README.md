@@ -16,8 +16,9 @@ Tasks
 
 参考
 
-- [ ] 超棒的知识图谱展示[[link](https://graphics.straitstimes.com/STI/STIMEDIA/Interactives/2018/04/marvel-cinematic-universe-whos-who-interactive/index.html)]
-- [ ] 漫威API官网[[link](https://developer.marvel.com/)]
+- [ ] 超棒的marvel知识图谱展示 [[link](https://graphics.straitstimes.com/STI/STIMEDIA/Interactives/2018/04/marvel-cinematic-universe-whos-who-interactive/index.html)]
+- [ ] 漫威API官网 [[link](https://developer.marvel.com/)]
+- [ ] neo4j的相关博客 [[link](https://tbgraph.wordpress.com/)]
 - [ ] 漫威，DC人物大全 [[link](https://www.douban.com/note/436744247/)] 
 - [ ] 漫威人物关系图、观影顺序图 [[link](http://www.360doc.com/content/16/0528/19/29576369_563071456.shtml)]
 
