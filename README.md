@@ -5,10 +5,12 @@
 
 **2019/04/08** 
 
-- [ ] Marvel 官网注册开发者账号 （my developer account: yzhang1270）
-- [ ] Get a Key 获取公钥、密钥
-- [ ] pip install marvel
-- [ ] 跑通 Marvel Package
+- [x] Marvel 官网注册开发者账号 （my developer account: yzhang1270）
+- [x] Get a Key 获取公钥、私钥
+- [x] python package: pip install marvel
+- [x] 生成 Marvel API 调用代码模块：**marvel_api.ipynb** 
+- [x] 参数传递```captain america``` ，JSON返回数据：**json_captain_america.txt** 
+- [ ] 多维度数据的整理分析
 
 
 
@@ -45,3 +47,12 @@
 - [ ] [part8](https://medium.com/neo4j/create-a-data-marvel-part-8-controlling-and-servicing-our-comic-endpoints-4dd08b81e0e) 
 - [ ] [part9](https://medium.com/neo4j/create-a-data-marvel-part-9-building-the-webpage-for-comics-1ceb26f8a5be) 
 - [ ] [part10](https://medium.com/neo4j/creating-a-data-marvel-part-10-lessons-and-resources-8ffb5bf0ad1) 
+
+
+
+如果之后将作品对外展示，请务必注意：
+
+1. **请求上限** 3000次/天，并且需要设定请求来源网址（referrer）。建议通过自建缓存，以减少请求量
+2. 需要在所有用到接口数据的页面上标注 **"Data provided by Marvel. © 2014 Marvel"**
+3. 需提供到 Marvel 官网的反链（**http://marvel.com**）
+4. 返回接口里的图片 URL 不是直接可访问的，需添加上所需图片尺寸和文件类型，拼出完整路径
