@@ -3,7 +3,9 @@
 
 两大块内容：**Marvel API**  和  **Knowledge Graph 知识图谱** 
 
-![[image from internet](https://graphics.straitstimes.com/STI/STIMEDIA/Interactives/2018/04/marvel-cinematic-universe-whos-who-interactive/index.html)](https://github.com/YZHANG1270/Marvel_KnowledgeGraph/blob/master/img/hero.png?raw=true)
+![](https://github.com/YZHANG1270/Marvel_KnowledgeGraph/blob/master/img/hero.png?raw=true)
+
+[image from awesome demo](https://graphics.straitstimes.com/STI/STIMEDIA/Interactives/2018/04/marvel-cinematic-universe-whos-who-interactive/index.html)
 
 
 
