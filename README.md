@@ -10,21 +10,21 @@
 
 
 
-##### Data / API
+#### Data / API
 
 - Marvel API [[link](https://developer.marvel.com/)] 
 
 
 
-##### Topic
+#### Topic
 
-- **Knowledge Graph 知识图谱** 
+- Knowledge Graph 知识图谱 
   - [ ] 智能问答
   - [x] 图谱可视化
 
 
 
-##### Tasks: Things I want to do
+#### Tasks
 
 - [x] 漫威API 熟悉
 - [x] 知识图谱科普帖 [[link](http://codewithzhangyi.com/2019/04/23/knowledge-graph-intro/)]
@@ -35,7 +35,7 @@
 
 
 
-##### Update
+#### Update
 
 **2019/04/08** 
 
@@ -57,7 +57,7 @@
 
 
 
-##### 拓展
+#### 拓展
 
 - [ ] 超惊艳！必看！Marvel 图谱可视化 [[link](https://graphics.straitstimes.com/STI/STIMEDIA/Interactives/2018/04/marvel-cinematic-universe-whos-who-interactive/index.html)]
 - [ ] neo4j的相关博客 [[link](https://tbgraph.wordpress.com/)]
@@ -67,7 +67,7 @@
 
  
 
-##### 其他制作教程
+#### 其他制作教程
 
 - [ ] [part1](https://medium.com/neo4j/create-a-data-marvel-develop-a-full-stack-application-with-spring-and-neo4j-part-1-350f0f7e6609) 
 - [ ] [part2](https://medium.com/neo4j/create-a-data-marvel-develop-a-full-stack-application-with-spring-and-neo4j-part-2-12186b929cb2?sk=dc964e4bf6496141730dde704bcabb47) 
@@ -82,7 +82,7 @@
 
 
 
-##### Attention
+#### Attention
 
 1. 请求上限 3000次/天，并且需要设定请求来源网址（referrer）
 2. 需要在所有用到接口数据的页面上标注 **"Data provided by Marvel. ©Marvel"** 
