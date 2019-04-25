@@ -35,7 +35,7 @@
 - [x] gephi 数据准备：data/gephi/.
   - [x] 节点数据：[id, name, story num]
   - [x] 关系数据：[character1, character2, story num]
-- [x] gephi 绘制英雄图谱 [[tutorial](https://gitee.com/crossin/snippet/tree/master/marvel-gephi)] ![](https://gitee.com/crossin/snippet/raw/master/marvel-gephi/pic/h99.svg?raw=true) 
+- [x] gephi 绘制英雄图谱 [[tutorial](https://gitee.com/crossin/snippet/tree/master/marvel-gephi)] ![](https://github.com/YZHANG1270/Marvel_KnowledgeGraph/blob/master/img/gephi.jpg?raw=true) 
 
 
 
