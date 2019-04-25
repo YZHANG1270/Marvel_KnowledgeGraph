@@ -8,22 +8,6 @@
 
 个人demo项目，走向未知，不断完善中...
 
-
-
-#### Data / API
-
-- Marvel API [[link](https://developer.marvel.com/)] 
-
-
-
-#### Topic
-
-- Knowledge Graph 知识图谱 
-  - [ ] 智能问答
-  - [x] 图谱可视化
-
-
-
 #### Tasks
 
 - [x] 漫威API 熟悉
@@ -39,6 +23,7 @@
 
 **2019/04/08** 
 
+- [x] Data source: **Marvel API** [[link](https://developer.marvel.com/)] 
 - [x] Marvel 官网注册开发者账号 [[link](https://developer.marvel.com/)] （my developer account: yzhang1270）
 - [x] Get a Key 获取公钥、私钥
 - [x] python package: pip install marvel
