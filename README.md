@@ -1,11 +1,8 @@
   ![](https://github.com/YZHANG1270/Marvel_KnowledgeGraph/blob/master/img/hero.png?raw=true)
-
 [点我！快点我！](https://graphics.straitstimes.com/STI/STIMEDIA/Interactives/2018/04/marvel-cinematic-universe-whos-who-interactive/index.html)
 
 
-
 # Marvel Knowledge Graph
-
 个人demo项目，走向未知，不断完善中...
 
 #### Tasks
@@ -38,7 +35,7 @@
 - [x] gephi 数据准备：data/gephi/.
   - [x] 节点数据：[id, name, story num]
   - [x] 关系数据：[character1, character2, story num]
-- [x] gephi 绘制英雄图谱 [[tutorial](https://gitee.com/crossin/snippet/tree/master/marvel-gephi)] ![](https://gitee.com/crossin/snippet/raw/master/marvel-gephi/pic/h99.svg) 
+- [x] gephi 绘制英雄图谱 [[tutorial](https://gitee.com/crossin/snippet/tree/master/marvel-gephi)] ![](https://gitee.com/crossin/snippet/raw/master/marvel-gephi/pic/h99.svg?raw=true) 
 
 
 
