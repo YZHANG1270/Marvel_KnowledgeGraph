@@ -41,17 +41,9 @@
 
 - [x] gephi 绘制英雄图谱 [[tutorial](https://gitee.com/crossin/snippet/tree/master/marvel-gephi)] 
 
-- [ ]  
-
   <object type="https://gitee.com/crossin/snippet/raw/master/marvel-gephi/pic/h25.svg">
   	<img src="https://gitee.com/crossin/snippet/raw/master/marvel-gephi/pic/h25.svg" />
   </object>
-
-
-<embed type="image/svg+xml" src="https://gitee.com/crossin/snippet/raw/master/marvel-gephi/pic/h99.svg">
-
-
-
 
 
 #### 拓展
