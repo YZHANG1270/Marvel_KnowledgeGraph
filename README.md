@@ -30,17 +30,12 @@
 **2019/04/25** 
 
 - [x] **功能：** 存储英雄及相关故事信息 - *marvel_gephi.py* 
-
 - [x] **存储：** 存储英雄及相关故事信息 - *data/.* 
-
 - [x] gephi 下载、安装、成功运行
-
 - [x] gephi 数据准备：data/gephi/.
   - [x] 节点数据：[id, name, story num]
   - [x] 关系数据：[character1, character2, story num]
-
 - [x] gephi 绘制英雄图谱 [[tutorial](https://gitee.com/crossin/snippet/tree/master/marvel-gephi)] 
-
   <object type="https://gitee.com/crossin/snippet/raw/master/marvel-gephi/pic/h25.svg">
   	<img src="https://gitee.com/crossin/snippet/raw/master/marvel-gephi/pic/h25.svg" />
   </object>
