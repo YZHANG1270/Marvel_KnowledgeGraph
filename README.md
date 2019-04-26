@@ -48,6 +48,14 @@
   </object>
 
 
+<embed type="image/svg+xml" src="https://gitee.com/crossin/snippet/raw/master/marvel-gephi/pic/h99.svg">
+
+
+
+<iframe src="https://gitee.com/crossin/snippet/raw/master/marvel-gephi/pic/h99.svg"></iframe>
+
+
+
 
 
 #### 拓展
