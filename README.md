@@ -43,11 +43,7 @@
 
 - [ ]  
 
-  ```html
-  <object type="image/svg+xml" data="https://gitee.com/crossin/snippet/raw/master/marvel-gephi/pic/h99.svg">
-      
-  </object>
-  ```
+  <object type="image/svg+xml" data="https://gitee.com/crossin/snippet/raw/master/marvel-gephi/pic/h99.svg"></object>
 
 
 
