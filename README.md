@@ -12,7 +12,7 @@
 - [ ] py2neo，cypher 语法总结
 - [x] Marvel 数据收集
 - [ ] 建立图谱代码
-- [x] 想玩一下的工具：Neo4j ; Gephi
+- [x] 玩过的可视化工具：[*Neo4j*](http://codewithzhangyi.com/2019/04/23/knowledge-graph-intro/) ; [*Gephi*](http://codewithzhangyi.com/2019/04/25/gephi/) 
 
 
 
