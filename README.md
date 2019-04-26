@@ -1,4 +1,4 @@
-  ![](https://github.com/YZHANG1270/Marvel_KnowledgeGraph/blob/master/img/hero.png?raw=true)
+****  ![](https://github.com/YZHANG1270/Marvel_KnowledgeGraph/blob/master/img/hero.png?raw=true)
 [点我！快点我！](https://graphics.straitstimes.com/STI/STIMEDIA/Interactives/2018/04/marvel-cinematic-universe-whos-who-interactive/index.html)
 
 
@@ -29,10 +29,11 @@
 
 **2019/04/25** 
 
+- [x] **功能：** 人物信息查询 - *charac_search.ipynb* 
 - [x] **功能：** 存储英雄及相关故事信息 - *marvel_gephi.py* 
 - [x] **存储：** 存储英雄及相关故事信息 - *data/.* 
 - [x] gephi 下载、安装、成功运行
-- [x] gephi 数据准备：data/gephi/.
+- [x] gephi 数据准备：*data/gephi/.* 
   - [x] 节点数据：[id, name, story num]
   - [x] 关系数据：[character1, character2, story num]
 - [x] gephi 绘制英雄图谱 [[tutorial](https://gitee.com/crossin/snippet/tree/master/marvel-gephi)] 
