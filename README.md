@@ -43,16 +43,12 @@
 
 - [ ]  
 
-  <object type="image/svg+xml" data="https://gitee.com/crossin/snippet/raw/master/marvel-gephi/pic/h99.svg">
-  	<img src="https://gitee.com/crossin/snippet/raw/master/marvel-gephi/pic/h99.svg" />
+  <object type="https://gitee.com/crossin/snippet/raw/master/marvel-gephi/pic/h25.svg">
+  	<img src="https://gitee.com/crossin/snippet/raw/master/marvel-gephi/pic/h25.svg" />
   </object>
 
 
 <embed type="image/svg+xml" src="https://gitee.com/crossin/snippet/raw/master/marvel-gephi/pic/h99.svg">
-
-
-
-<iframe src="https://gitee.com/crossin/snippet/raw/master/marvel-gephi/pic/h99.svg"></iframe>
 
 
 
